@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: var(--bs-body-bg);
+    color: var(--bs-body-color);
+  }
+  
+  input, select {
+    margin: 2px 0;
+    width: 100%;
+  }
+  
+  button {
+    margin: 10px 0;
+    padding: 6px 12px;
+  }
+  
+  canvas {
+    margin-top: 20px;
+  }
+  
+  .spinner-border {
+    width: 3rem;
+    height: 3rem;
+  }
+  
+  #previewTable {
+    margin-top: 1rem;
+  }
+  
+  #shapImage {
+    max-width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+  }
+  

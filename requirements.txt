@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-session
+numpy
+pandas
+tensorflow
+joblib
+matplotlib
+shap

@@ -5,3 +5,5 @@ __pycache__/
 *.pyd
 *.log
 .DS_Store
+.env
+*.sqlite3
